@@ -108,16 +108,12 @@ Writing code and passionate about building **high quality software**. I like pro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?thanmai-kolli=thanmai-kolli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thanmai-kolli&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 <img src="https://streak-stats.demolab.com/?user=thanmai-kolli&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?thanmai-kolli=thanmai-kolli&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?thanmai-kolli=thanmai-kolli&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanmai-kolli&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="165"/>
 
 </div>
 
@@ -129,7 +125,7 @@ Writing code and passionate about building **high quality software**. I like pro
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?thanmai-kolli=thanmai-kolli&style=for-the-badge&color=5d8ef0)
+![Profile Views](https://komarev.com/ghpvc/?username=thanmai-kolli&style=for-the-badge&color=5d8ef0)
 
 <br/>
 
