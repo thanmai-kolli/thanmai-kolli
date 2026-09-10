@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:24283b&height=140&section=header&text=Thanmai%20Kolli&fontSize=40&fontColor=5d8ef0&fontAlignY=52&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5d8ef0&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Python+%2B+Computer+Vision+%7C+React+%2B+Node.js;Building+Gesture+Control%2C+Traffic+AI+%26+Web+Apps;Writing+Code.+Building+High+Quality+Software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=5d8ef0&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Full-Stack+Developer;Python+%2B+Computer+Vision+%7C+React+%2B+Flask;Building+Real-Time+Multiplayer%2C+Traffic+AI+%26+Web+Apps;Writing+Code.+Building+High+Quality+Software.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 Writing code and passionate about building **high quality software**. I like problems that sit at the intersection of **computer vision, machine learning, and the web** — teaching a camera to read hand gestures, making traffic lights think for themselves, or shipping a clean full-stack app end to end.
 
-- 🔭 **Currently building** — computer-vision systems in Python and full-stack apps with React + Node/Flask
+- 🔭 **Currently building** — real-time multiplayer web apps with React + Flask over WebSockets, and computer-vision systems in Python
 - 🧠 **Exploring** — deep learning for real-time detection (YOLO, EfficientDet) and applied ML
-- ⚙️ **Core focus** — Computer Vision · Machine Learning · Full-Stack Web · REST APIs
+- ⚙️ **Core focus** — Full-Stack Web · Real-Time Systems · Computer Vision · Machine Learning
 - 🎮 **For fun** — gesture-controlled games, genetic algorithms, and browser multiplayer experiments
 - 🤝 **Open to** — Software Engineering · Full-Stack · ML / Computer Vision roles and collaborations
 - 📫 **Reach me** — [thanmaikolli@gmail.com](mailto:thanmaikolli@gmail.com) or [LinkedIn](https://www.linkedin.com/in/thanmai-kolli-8a7b58291/)
@@ -35,7 +35,7 @@ Writing code and passionate about building **high quality software**. I like pro
 | 👁️ Vision & ML | 💻 Full-Stack | 🧩 Problem Solving |
 |:---:|:---:|:---:|
 | Real-time detection with YOLOv8 & EfficientDet | React front-ends with REST integration | Genetic algorithms & heuristic search |
-| Hand tracking via OpenCV + MediaPipe | Node.js / Express & Flask APIs | Game logic & simulation |
+| Hand tracking via OpenCV + MediaPipe | Flask / Node APIs & WebSocket services | Concurrency, state machines & race conditions |
 | Classical ML with scikit-learn | Component-driven UI architecture | Turning research ideas into working demos |
 
 </div>
@@ -48,12 +48,12 @@ Writing code and passionate about building **high quality software**. I like pro
 
 | Project | What It Does | Built With |
 |:---|:---|:---|
+| **[cloud-mafia-game](https://github.com/thanmai-kolli/cloud-mafia-game)** | Real-time multiplayer social deduction game — WebSocket game engine with secret roles, live vote tallies, reconnect-safe sessions and Docker deploy | `React` `Flask` `Socket.IO` `MongoDB` `Docker` |
 | **[smart-traffic-management-system](https://github.com/thanmai-kolli/smart-traffic-management-system)** | Detects and counts vehicles from live video to drive adaptive traffic-signal timing | `Python` `YOLOv8` `EfficientDet` `OpenCV` `scikit-learn` |
 | **[gesture-controlled-games](https://github.com/thanmai-kolli/gesture-controlled-games)** | Play Snake, Car Racing and Subway Runner using only hand gestures on a webcam | `Python` `OpenCV` `MediaPipe` `Pygame` |
 | **[audio_transcriber](https://github.com/thanmai-kolli/audio_transcriber)** | Upload audio and get a text transcription — React client with a Flask API | `React` `Flask` `Python` `JavaScript` |
 | **[fresh_cart](https://github.com/thanmai-kolli/fresh_cart)** | Grocery e-commerce app with product catalogue, cart and order flow | `React 19` `Axios` `Node.js` `Express` |
 | **[maze-solver-using-genetic-algorithm](https://github.com/thanmai-kolli/maze-solver-using-genetic-algorithm)** | Evolves a population of paths to escape a maze — selection, crossover, mutation | `Python` `NumPy` |
-| **[cloud-mafia-game](https://github.com/thanmai-kolli/cloud-mafia-game)** | Browser-based multiplayer take on the classic Mafia party game | `JavaScript` `HTML` `CSS` |
 
 </div>
 
@@ -72,6 +72,7 @@ Writing code and passionate about building **high quality software**. I like pro
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -81,7 +82,15 @@ Writing code and passionate about building **high quality software**. I like pro
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-4353FF?style=flat-square&logo=socketdotio&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+**Data & Infrastructure**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 **Computer Vision, ML & Data**
 
@@ -100,6 +109,7 @@ Writing code and passionate about building **high quality software**. I like pro
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
