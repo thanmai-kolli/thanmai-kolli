@@ -48,12 +48,12 @@ Writing code and passionate about building **high quality software**. I like pro
 
 | Project | What It Does | Built With |
 |:---|:---|:---|
-| **[cloud-mafia-game](https://github.com/thanmai-kolli/cloud-mafia-game)** | Real-time multiplayer social deduction game — WebSocket game engine with secret roles, live vote tallies, reconnect-safe sessions and Docker deploy | `React` `Flask` `Socket.IO` `MongoDB` `Docker` |
 | **[smart-traffic-management-system](https://github.com/thanmai-kolli/smart-traffic-management-system)** | Detects and counts vehicles from live video to drive adaptive traffic-signal timing | `Python` `YOLOv8` `EfficientDet` `OpenCV` `scikit-learn` |
 | **[gesture-controlled-games](https://github.com/thanmai-kolli/gesture-controlled-games)** | Play Snake, Car Racing and Subway Runner using only hand gestures on a webcam | `Python` `OpenCV` `MediaPipe` `Pygame` |
 | **[audio_transcriber](https://github.com/thanmai-kolli/audio_transcriber)** | Upload audio and get a text transcription — React client with a Flask API | `React` `Flask` `Python` `JavaScript` |
 | **[fresh_cart](https://github.com/thanmai-kolli/fresh_cart)** | Grocery e-commerce app with product catalogue, cart and order flow | `React 19` `Axios` `Node.js` `Express` |
 | **[maze-solver-using-genetic-algorithm](https://github.com/thanmai-kolli/maze-solver-using-genetic-algorithm)** | Evolves a population of paths to escape a maze — selection, crossover, mutation | `Python` `NumPy` |
+| **[cloud-mafia-game](https://github.com/thanmai-kolli/cloud-mafia-game)** | Real-time multiplayer social deduction game — WebSocket game engine with secret roles, live vote tallies, reconnect-safe sessions and Docker deploy | `React` `Flask` `Socket.IO` `MongoDB` `Docker` |
 
 </div>
 
