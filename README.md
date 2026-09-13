@@ -54,6 +54,7 @@ Writing code and passionate about building **high quality software**. I like pro
 | **[fresh_cart](https://github.com/thanmai-kolli/fresh_cart)** | Grocery e-commerce app with product catalogue, cart and order flow | `React 19` `Axios` `Node.js` `Express` |
 | **[maze-solver-using-genetic-algorithm](https://github.com/thanmai-kolli/maze-solver-using-genetic-algorithm)** | Evolves a population of paths to escape a maze — selection, crossover, mutation | `Python` `NumPy` |
 | **[cloud-mafia-game](https://github.com/thanmai-kolli/cloud-mafia-game)** | Real-time multiplayer social deduction game — WebSocket game engine with secret roles, live vote tallies, reconnect-safe sessions and Docker deploy | `React` `Flask` `Socket.IO` `MongoDB` `Docker` |
+| **[automated-code-migration-system](https://github.com/thanmai-kolli/automated-code-migration-system)** | Migrates code between Java, Python, C and C++ and upgrades legacy codebases to modern versions — AST-driven transformation scored by ML for confidence, accuracy and risk | `React 19` `Flask` `Python` `scikit-learn` `Monaco` |
 
 </div>
 
